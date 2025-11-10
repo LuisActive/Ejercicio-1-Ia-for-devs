@@ -12,7 +12,7 @@ Crea una **página web con lógica JavaScript** para un formulario de registro s
 * Utiliza un **chatbot AI** (como ChatGPT, Gemini o Claude), **NO un asistente de código en IDE** (como Github Copilot).
 
 **Para Entregar:**
-Realiza un *Pull Request* que incluya una carpeta copiada de `template`, nombrada **`formvalidation-iniciales`** (ejemplo: `formvalidation-ARM`).
+Realiza un *Pull Request* que incluya una carpeta copiada de `template`, nombrada **`nombre completo`** (ejemplo: `Jose-David-Giraldo`).
 
 Esta carpeta debe incluir:
 1.  El código generado (`index.html`, `script.js`, etc.).
